@@ -1,5 +1,5 @@
 # DFSM-Det
-Intelligent Detection for RIS-Assisted MIMO Systems: A First-and-Second Momentum Approach
+Intelligent Detection for RIS-Assisted MIMO Systems: A First-and-Second Momentum Approach for 16-QAM
 
 S. P. Azizi, H. -Y. Lu and S. -C. Cheng, "Intelligent Detection for RIS-Assisted MIMO Systems: A First-and-Second Momentum Approach," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3542412.
 keywords: {Symbols;Massive MIMO;Complexity theory;Convergence;Vectors;Reflection;Deep learning;Channel estimation;Training;Reconfigurable intelligent surfaces;Reconfigurable intelligent surface;massive multiple-input multiple-output;deep learning},
